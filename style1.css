@@ -1,0 +1,31 @@
+h1
+{
+	color: blue;
+}
+h2 
+{
+	font-family: 'Supermercado One', cursive;
+}
+li 
+{
+	font-family: 'Bebas Neue', cursive;
+
+}
+
+body
+{
+   background-color: beige;
+}
+
+#carte
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: beige;
+	text-align: center;
+	align-content: center;
+}
+ul li 
+{
+	list-style-type: none;
+}
